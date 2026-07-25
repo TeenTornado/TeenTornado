@@ -1,8 +1,12 @@
 <!-- ═══════════════════════════════ HEADER ═══════════════════════════════ -->
 
-<a href="https://github.com/TeenTornado">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sreeram%20Kumar%20V%20R&fontColor=00f5d4&fontSize=45&animation=fadeIn&fontAlignY=38&desc=building%20at%20the%20edge%20of%20AI%20%2B%20Computer%20Vision&descSize=18&descAlignY=58&descColor=9b5de5" />
-</a>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&pause=99999&color=00F5D4&center=true&vCenter=true&width=760&height=70&lines=Sreeram+Kumar+V+R" alt="Sreeram Kumar V R" />
+</h1>
+
+<p align="center">
+  <sub>◦ &nbsp; building at the edge of <b>AI + Computer Vision</b> &nbsp; ◦</sub>
+</p>
 
 <p align="center">
   <a href="https://github.com/TeenTornado">
@@ -112,15 +116,11 @@ class SreeramKumar:
 
 <div align="center">
 
-### 💭 Certified developer experience™
+### 😎 &nbsp; when the vibe coding hits different
 
-<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWo7W/giphy.gif" width="420" alt="debugging like a detective" />
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="420" alt="vibe coding hacker cat" />
 
-> _"It's not a bug — it's an undocumented feature."_ 🐛✨
->
-> `git commit -m "final"` → `git commit -m "final FINAL"` → `git commit -m "final for real this time"`
-
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="380" alt="hacker cat" />
+`while (true) { code(); vibe(); repeat(); }`
 
 </div>
 
@@ -128,12 +128,8 @@ class SreeramKumar:
 
 <div align="center">
 
-### ⚡ 99% of the time it works every time
+### Volume negates luck. Consistency compounds. 🚀
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="dev quote" />
-
-**Volume negates luck. I'll keep showing up.** 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
+<sub>♞ &nbsp; still showing up &nbsp; ♞</sub>
 
 </div>
