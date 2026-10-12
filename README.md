@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/TeenTornado">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&lines=SWE+Intern+%40+Samsung+R%26D+Institute+Bangalore;Visual+Intelligence+%7C+AI+%2B+Computer+Vision;LeetCode+Knight+%E2%99%9E+Top+5.7%25+%7C+620%2B+solved;%22Volume+negates+luck.%22;%24+sudo+rm+-rf+%2F+impostor_syndrome" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&lines=Ex+SWE+Intern+%40+Samsung+R%26D+Institute+Bangalore;Visual+Intelligence+%7C+AI+%2B+Computer+Vision;LeetCode+Knight+%E2%99%9E+Top+5.7%25+%7C+620%2B+solved;%22Volume+negates+luck.%22;%24+sudo+rm+-rf+%2F+impostor_syndrome" alt="Typing SVG" />
   </a>
 </p>
 
